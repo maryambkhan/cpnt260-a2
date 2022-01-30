@@ -1,7 +1,7 @@
 # cpnt260-a2
 ## Maryam Khan
 
-## About Us Page 
+## Product
 
 
 * [GitHub Pages](https://maryambkhan.github.io/cpnt260-a2/)
