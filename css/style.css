@@ -114,7 +114,7 @@ nav {
   box-shadow: 6px 6px 20px;
   background-color: whitesmoke;
   padding: 15px;
- 
+  width: fit-content;
 }
 .card-image {
   width: 100%;
