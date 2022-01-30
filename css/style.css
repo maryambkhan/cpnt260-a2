@@ -72,7 +72,7 @@ nav {
   flex-direction: column;
   justify-content: center;
   text-align: center;
-  background-image: url("/images/bg.png");
+  background-image: url("https://images.pexels.com/photos/906150/pexels-photo-906150.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
   height: 30vh;
   background-position: center;
   background-size: cover;
